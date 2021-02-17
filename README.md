@@ -1,13 +1,13 @@
 ### 👋 Hello, my name is Fajar
 <p>
-  I'am 15 years old. I like Proraming and Capture The Flag.<br>
+  I'am 15 years old. I like Programing and Capture The Flag.<br>
   Leader of @skullxploit<br>
 </p>
 
   - Offcial Site : <a target="_blank" href="https://skullxploit.com">skullxploit.com</a>
   - Online Tools : <a target="_blank" href="https://tools.skullxploit.com">tools.skullxploit.com</a>
   - CTF : <a target="_blank" href="https://ctf.skullxploit.com">ctf.skullxploit.com</a>
-
+  - Blog : <a target="_blank" href="https://blog.skullxploit.com">blog.skullxploit.com</a>
 <p>
   Indonesian People 🇮🇩🇮🇩
 </p>

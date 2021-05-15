@@ -1,6 +1,6 @@
 ### 👋 Hello, my name is Fajar
 <p>
-  I'am 16 years old. I like Programing and Capture The Flag.<br>
+  I'am 16 years old. Cyber Security Enthusiast.<br>
   Leader of @skullxploit<br>
 </p>
 
